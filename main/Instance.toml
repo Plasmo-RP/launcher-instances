@@ -1,0 +1,6 @@
+name="Plasmo RP"
+game_version="1.19.2"
+
+[loader]
+type="Fabric"
+version="0.14.11"

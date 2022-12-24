@@ -1,0 +1,3 @@
+id="sodium"
+provider="modrinth"
+version="fabric-1.19.3-1.2.19" # "latest", "release", "beta", "alpha"
