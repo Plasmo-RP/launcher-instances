@@ -1,0 +1,8 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "AutoRefillSettings": {
+        "autorefill_blacklist": "minectaft:totem_of_undying"
+    }
+}
