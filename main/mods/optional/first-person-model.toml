@@ -3,4 +3,4 @@ provider="modrinth"
 
 [locale.ru]
 title = "First Person"
-description = "Добавляет игроку вид от первого лица"
+description = "Добавляет игроку реалистичный вид от первого лица"
