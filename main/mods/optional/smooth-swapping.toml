@@ -1,2 +1,6 @@
 id="smooth-swapping"
 provider="modrinth"
+
+[locale.ru]
+title = "Smooth Swapping"
+description = "Анимирует перемещение ресурсов"

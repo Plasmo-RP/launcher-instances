@@ -1,2 +1,6 @@
 id="dynamic-fps"
 provider="modrinth"
+
+[locale.ru]
+title = "Dynamic FPS"
+description = "Уменьшает FPS игры в свернутом режиме"

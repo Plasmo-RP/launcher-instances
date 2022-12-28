@@ -1,2 +1,6 @@
 id="chat-heads"
 provider="modrinth"
+
+[locale.ru]
+title = "Chat Heads"
+description = "Добавляет головы игроков перед сообщениями в чате"

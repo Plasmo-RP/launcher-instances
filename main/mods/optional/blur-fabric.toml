@@ -1,2 +1,6 @@
 id="blur-fabric"
 provider="modrinth"
+
+[locale.ru]
+title = "Blur"
+description = "Добавляет красивое размытие вокруг окна инвентаря"

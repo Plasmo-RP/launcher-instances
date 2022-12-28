@@ -1,2 +1,6 @@
 id="freecam"
 provider="modrinth"
+
+[locale.ru]
+title = "Freecam"
+description = "Позволяет активировать свободный полет камеры"

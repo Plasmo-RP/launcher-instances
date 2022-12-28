@@ -1,2 +1,6 @@
 id="time-changer"
 provider="modrinth"
+
+[locale.ru]
+title = "Time Changer"
+description = "Позволяет визуально изменять время суток"

@@ -1,2 +1,6 @@
 id="dynamicsurroundings_remasteredfabric"
 provider="modrinth"
+
+[locale.ru]
+title = "Dynamic Surroundings"
+description = "Улучшает физику звуков"

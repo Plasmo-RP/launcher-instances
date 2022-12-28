@@ -1,2 +1,6 @@
 id="first-person-model"
 provider="modrinth"
+
+[locale.ru]
+title = "First Person"
+description = "Добавляет игроку вид от первого лица"

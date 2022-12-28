@@ -1,2 +1,6 @@
 id="mouse-tweaks"
 provider="modrinth"
+
+[locale.ru]
+title = "Mouse Tweaks"
+description = "Улучшает механику распределения ресурса в инвентаре"

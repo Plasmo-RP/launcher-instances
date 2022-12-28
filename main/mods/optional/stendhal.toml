@@ -1,2 +1,6 @@
 id="stendhal"
 provider="modrinth"
+
+[locale.ru]
+title = "Stendhal"
+description = "Дополнительные возможности для книг, табличек и чата"

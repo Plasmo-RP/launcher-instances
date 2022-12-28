@@ -1,2 +1,6 @@
 id="sound-physics-remastered"
 provider="modrinth"
+
+[locale.ru]
+title = "Sound Physics"
+description = "Добавляет эффекты звукам"
