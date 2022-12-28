@@ -2,5 +2,5 @@ id="replaymod"
 provider="modrinth"
 
 [locale.ru]
-title = "Replay"
+title = "Replay Mod"
 description = "Позволяет записывать игровой процесс в фоне"

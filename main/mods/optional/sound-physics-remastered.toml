@@ -3,4 +3,4 @@ provider="modrinth"
 
 [locale.ru]
 title = "Sound Physics"
-description = "Добавляет эффекты звукам"
+description = "Добавляет реалистичную физику звука"
