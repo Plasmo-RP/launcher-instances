@@ -1,2 +1,6 @@
 id="3dskinlayers"
 provider="modrinth"
+
+[locale.ru]
+title="Тест"
+description="Тест"
