@@ -1,2 +1,6 @@
 id="betterf3"
 provider="modrinth"
+
+[locale.ru]
+title = "BetterF3"
+description = "Улучшает F3 меню"

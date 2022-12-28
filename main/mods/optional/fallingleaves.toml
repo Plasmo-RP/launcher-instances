@@ -1,2 +1,6 @@
 id="fallingleaves"
 provider="modrinth"
+
+[locale.ru]
+title = "Falling Leaves"
+description = "Добавляет деревьям анимацию опадающих листьев"

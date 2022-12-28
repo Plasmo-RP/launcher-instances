@@ -1,2 +1,6 @@
 id="wavey-capes"
 provider="modrinth"
+
+[locale.ru]
+title = "Wavey Capes"
+description = "Анимирует плащи"

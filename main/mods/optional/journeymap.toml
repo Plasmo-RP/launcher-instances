@@ -1,2 +1,6 @@
 id="journeymap"
 provider="modrinth"
+
+[locale.ru]
+title = "JourneyMap"
+description = "Добавляет функциональную мини-карту"

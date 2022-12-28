@@ -1,2 +1,6 @@
 id="dripsounds-fabric"
 provider="modrinth"
+
+[locale.ru]
+title = "Drip Sounds"
+description = "Добавляет звуки падения для некоторых частиц"

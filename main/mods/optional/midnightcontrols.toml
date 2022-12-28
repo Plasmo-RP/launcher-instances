@@ -1,2 +1,6 @@
 id="midnightcontrols"
 provider="modrinth"
+
+[locale.ru]
+title = "MidnightControls"
+description = "Добавляет поддержку геймпада и дополняет управление"

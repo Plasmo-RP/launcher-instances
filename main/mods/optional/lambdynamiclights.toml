@@ -1,2 +1,6 @@
 id="lambdynamiclights"
 provider="modrinth"
+
+[locale.ru]
+title = "Dynamic Lights"
+description = "Освещает пространство вокруг носимых источников света"

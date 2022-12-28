@@ -1,2 +1,6 @@
 id="extrasounds"
 provider="modrinth"
+
+[locale.ru]
+title = "Extra Sounds"
+description = "Добавляет новые звуки интерфейса"

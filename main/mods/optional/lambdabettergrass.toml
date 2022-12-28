@@ -1,2 +1,6 @@
 id="lambdabettergrass"
 provider="modrinth"
+
+[locale.ru]
+title = "LambdaBetterGrass"
+description = "Делает травяные блоки более приятными для глаз"
