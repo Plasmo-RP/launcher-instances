@@ -3,6 +3,6 @@
         "first_run": false
     },
     "AutoRefillSettings": {
-        "autorefill_blacklist": "minectaft:totem_of_undying"
+        "autorefill_blacklist": "minecraft:totem_of_undying"
     }
 }
