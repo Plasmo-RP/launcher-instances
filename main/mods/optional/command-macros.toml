@@ -3,4 +3,4 @@ provider="modrinth"
 
 [locale.ru]
 title = "Command Macros"
-description = "Назначать команды на клавиши"
+description = "Позволяет назначать команды на клавиши"

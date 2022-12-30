@@ -3,4 +3,4 @@ provider="modrinth"
 
 [locale.ru]
 title = "Boosted Brightness"
-description = "Ночное зрение одной кнопкой"
+description = "Позволяет устанавливать яркость выше обычной"
