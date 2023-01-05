@@ -4,12 +4,12 @@ customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
   renderorder = foreground
-  randommode = false
+  randommode = true
   randomonlyfirsttime = false
 }
 
 customization {
-  name = prp_spawn_4_staytrue_new_year
+  name = prp_spawn_3
   action = setbackgroundpanorama
 }
 
