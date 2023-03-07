@@ -1,0 +1,6 @@
+id="command-macros"
+provider="modrinth"
+
+[locale.ru]
+title = "Command Macros"
+description = "Позволяет назначать команды на клавиши"
