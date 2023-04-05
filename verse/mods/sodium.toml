@@ -1,0 +1,3 @@
+id="sodium"
+provider="modrinth"
+version="latest" # "latest", "release", "beta", "alpha"

@@ -1,0 +1,6 @@
+name="Verse"
+game_version="1.19.4"
+
+[loader]
+type="Fabric"
+version="0.14.18"
