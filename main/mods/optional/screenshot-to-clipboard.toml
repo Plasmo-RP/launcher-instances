@@ -1,0 +1,6 @@
+id="screenshot-to-clipboard"
+provider="modrinth"
+
+[locale.ru]
+title = "Screenshot to Clipboard"
+description = "Копируйте скриншоты в буфер обмена"

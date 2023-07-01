@@ -1,0 +1,6 @@
+id="completeconfig"
+provider="modrinth"
+
+[locale.ru]
+title = "CompleteConfig"
+description = "Библиотека которая нужна для некоторых модов"

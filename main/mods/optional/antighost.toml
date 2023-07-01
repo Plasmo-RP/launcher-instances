@@ -1,0 +1,6 @@
+id="antighost"
+provider="modrinth"
+
+[locale.ru]
+title = "AntiGhost"
+description = "Помогает избавиться от фантомных блоков"

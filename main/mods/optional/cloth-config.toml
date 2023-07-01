@@ -1,0 +1,6 @@
+id="cloth-config"
+provider="modrinth"
+
+[locale.ru]
+title = "Cloth Config API"
+description = "Библиотека которая нужна для некоторых модов"

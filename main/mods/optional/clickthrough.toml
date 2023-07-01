@@ -1,0 +1,6 @@
+id="clickthrough"
+provider="modrinth"
+
+[locale.ru]
+title = "ClickThrough"
+description = "Взаимодействуйте с предметами через рамки и таблички"

@@ -1,0 +1,6 @@
+id="morechathistory"
+provider="modrinth"
+
+[locale.ru]
+title = "MoreChatHistory"
+description = "Увеличивает лимит истории чата"

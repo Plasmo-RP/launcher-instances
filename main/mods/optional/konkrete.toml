@@ -1,0 +1,6 @@
+id="konkrete"
+provider="modrinth"
+
+[locale.ru]
+title = "Konkrete"
+description = "Библиотека которая нужна для некоторых модов"

@@ -1,0 +1,6 @@
+id="fancymenu"
+provider="modrinth"
+
+[locale.ru]
+title = "FancyMenu"
+description = "Красивое меню с тематикой сервера"

@@ -1,0 +1,6 @@
+id="collective"
+provider="modrinth"
+
+[locale.ru]
+title = "Collective"
+description = "Библиотека которая нужна для некоторых модов"

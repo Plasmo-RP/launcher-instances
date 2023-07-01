@@ -1,5 +1,5 @@
 name="Plasmo RP"
-game_version="1.19.2"
+game_version="1.20.1"
 
 [loader]
 type="Fabric"

@@ -1,0 +1,6 @@
+id="light-overlay"
+provider="modrinth"
+
+[locale.ru]
+title = "Light Overlay"
+description = "Показывает уровень света на блоках"
