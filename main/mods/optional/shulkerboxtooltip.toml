@@ -1,0 +1,6 @@
+id="shulkerboxtooltip"
+provider="modrinth"
+
+[locale.ru]
+title = "Shulker Box Tooltip"
+description = "Отображает содержимое шалкера в инвентаре"

@@ -1,0 +1,185 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = prp_spawn_2
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 102
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
+  x = 0
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:modmenu_titlescreen_mods_button
+  x = 102
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -24
+  action = movebutton
+  y = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 214
+  action = deep_customization_element:title_screen_branding
+  actionid = 9e225e35-2a4e-4ad6-b109-51b06b53c0851672173052193
+  y = 383
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 470
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 305c5619-99a6-4e3e-bfaa-06039a98b8581672173052205
+  y = 199
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 230
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 79cd815b-eb55-4339-b0ee-9057d7f2a86d1672173052205
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 91c1dcdb-5cfc-41e2-9188-1ec51137fb591672173052205
+  y = 0
+  height = 30
+}
+
+customization {
+  path = menu/plasmorp_logo.png
+  orientation = top-centered
+  x = -129
+  width = 262
+  action = addtexture
+  actionid = 8d610709-dbb4-47dd-9e3b-711707cb06361672174017020
+  y = 29
+  height = 45
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  label = Выживание
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  width = 98
+  actionid = 09288914-aa40-4d38-9aa5-3dcf005c144c1672175161992
+  action = addbutton
+  y = 48
+  value = prp.plo.su
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  label = Творческий
+  loopbackgroundanimations = true
+  orientation_element = 09288914-aa40-4d38-9aa5-3dcf005c144c1672175161992
+  x = 102
+  width = 98
+  actionid = 60420c2a-a7e7-4cb8-86ca-659627b588cf1672175198804
+  action = addbutton
+  y = 0
+  value = crp.plo.su
+  height = 20
+}
+
+customization {
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = menu/splashes.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  orientation_element = 8d610709-dbb4-47dd-9e3b-711707cb06361672174017020
+  x = 204
+  actionid = fa31fa62-3f4c-4956-ba9f-b230c88a534f1672183706393
+  action = addsplash
+  y = 27
+}
+
